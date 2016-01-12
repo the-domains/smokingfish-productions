@@ -1,0 +1,28 @@
+name: Smokingfish Productions
+favicon: null
+layout_spectrum: 0.7257866822183132
+typography_spectrum: 0.44759902358055115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9424331204500049
+  lightness: 0.12239990010857582
+  saturation: 0.7088951438199729
+  rhythmicContrast: 0.6326599295716733
+purpose: []
